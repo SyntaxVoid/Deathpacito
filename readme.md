@@ -5,7 +5,7 @@
 # Deathpacito
 ## For when you really want to end it all!
 
-![Deathpacito](https://i.imgur.com/4JPFfv3.gif)
+![Deathpacito](https://github.com/SyntaxVoid/Deathpacito/blob/main/Deathpacito.gif?raw=true)
 
 __Deathpacito is a plugin built for Terraria servers running on **[tShock](https://github.com/Pryaxis/TShock)**.__
 
